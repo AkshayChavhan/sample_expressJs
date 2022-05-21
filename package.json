@@ -1,0 +1,15 @@
+{
+  "name": "express_akshay",
+  "version": "1.0.0",
+  "description": "this is v2 version for learning express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akshay chavhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0"
+  }
+}

@@ -1,0 +1,17 @@
+getting started with express js
+installation: - 
+    1] create a folder to store files
+    2] create a file "app.js"
+    3] go to terminal at same folder
+    4] type "npm init"
+    5] Enter all details and after installation a "package.json" file will create
+    6] now install express as "npm install express" 
+            (understand nodejs installation is mandatory to use express).
+    7] now you can see express as dependancy in package.json and package-lock.json
+            and node_modulefie will created
+    
+
+
+
+
+
